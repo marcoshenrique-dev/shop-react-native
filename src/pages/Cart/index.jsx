@@ -8,7 +8,7 @@ export default function Cart () {
 
   return(
       <View>
-        <Text>Olá mundo de novo</Text>
+        <Text>Carrinho de compras</Text>
       </View>
   );
 }

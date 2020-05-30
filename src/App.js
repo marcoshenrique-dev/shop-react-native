@@ -38,8 +38,8 @@ export default function App() {
           },
         })}
         tabBarOptions={{
-          activeTintColor: 'yellow',
-          inactiveTintColor: 'blue',
+          activeTintColor: 'blue',
+          inactiveTintColor: 'gray',
           showLabel: false,
         }}
       >

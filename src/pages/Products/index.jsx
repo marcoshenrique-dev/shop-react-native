@@ -4,11 +4,11 @@ import { View , Text} from 'react-native';
 
 import style from "./style";
 
-export default function Cart () {
+export default function Products () {
 
   return(
       <View>
-        <Text>Carrinho de compras</Text>
+        <Text>Busca de produtos</Text>
       </View>
   );
 }
