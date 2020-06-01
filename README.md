@@ -1,2 +1,3 @@
-# shop-react-native
+# Shop React Native
+
 Projeto de lojinha com react-native
